@@ -1,2 +1,0 @@
-[[Main Menu]]
-[[Title Screen]]
