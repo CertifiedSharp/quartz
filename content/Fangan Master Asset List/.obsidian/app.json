@@ -3,5 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
-  "attachmentFolderPath": "UI/UI Attachments"
+  "attachmentFolderPath": "UI/UI Attachments",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }
