@@ -8,7 +8,7 @@ Welcome to Fanguideronpa!
 A website dedicated to listing out the amount of assets you'd need to create a fangan in detail!
 
 ## Content
-- [Game UI](_UI.md)
+- [Games UI](_UI)
 
 
 ## Swedens Building Grounds
