@@ -11,4 +11,4 @@ The following list are suggested assets in order to make a pop up.
 - Font for displaying the text (.ttf or .otf)
 
 Example of a Pop Up from V3:
-![[Pasted image 20220420140956.png]]
+![[PopUp.png]]

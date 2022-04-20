@@ -20,9 +20,9 @@ The title group is very simple, just 3 options. Usually, before this group if yo
 It's Comprised of the following, leading to their respective groups when selected.
 - New Game -> Loaded File / New Game Group
 - Load Game -> Save / Load Menu
-- Quit Game -> [Pop Up Prompt to quit the game](PopUp)
+- Quit Game -> [Pop Up Prompt to quit the game](PopUp.md)
 
 An example of this title group show here from V3:
 
-![[Pasted image 20220420135416.png]]
+![[TitleGroup.png]]
 

@@ -1,7 +1,7 @@
 ---
 title: "Game UI"
 ---
-## UI
+## Game UI
 
 Welcome to UI!
 UI is an essential part of a game, especially one where dialogue is the main component.
@@ -11,7 +11,7 @@ There's a lot of info to cover, but not to worry, most of this is self explanito
 
 ## List of UI Regions
 - [Title Screen(Main Menu)](Title_Screen.md)
-- [Pop Up](PopUp)
+- [Pop Up](PopUp.md)
 - Save/Load
 - Options
 - Dialogue UI
